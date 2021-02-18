@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sputn\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sputn\\.nuget\\packages"
+    ]
+  }
+}
